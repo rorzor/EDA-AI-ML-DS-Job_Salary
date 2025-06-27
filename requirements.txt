@@ -1,5 +1,8 @@
+jupyter
 numpy
 pandas
 plotly
 scipy
 matplotlib
+nbformat
+nbconvert
