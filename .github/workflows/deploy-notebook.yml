@@ -22,7 +22,7 @@ jobs:
 
     - name: Install dependencies
       run: |
-        pip install nbconvert jupyter
+        pip install -r requirements.txt
 
     - name: Convert notebook to HTML
       run: |
