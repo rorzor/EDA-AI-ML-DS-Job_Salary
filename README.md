@@ -1,6 +1,4 @@
-# EDA-Australian_Energy_Generation
-Exploratory Data Analysis project focussed on Australian Energy Production by type
-
-# Data
-Initial data will be from: https://www.energy.gov.au/publications/australian-energy-statistics-table-o-electricity-generation-fuel-type-2023-24-and-2024
+# EDA-AI/ML/Data Science job salary
+Exploratory Data Analysis project focussed on AI and Machine learning salaries, from the Kaggel dataset:
+https://www.kaggle.com/datasets/adilshamim8/salaries-for-data-science-jobs/data
 

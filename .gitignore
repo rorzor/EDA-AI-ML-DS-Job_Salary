@@ -1,0 +1,2 @@
+# Ignore Python cache and environment files
+data_loader.py
